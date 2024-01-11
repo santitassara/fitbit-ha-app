@@ -1,0 +1,24 @@
+
+msgid "unavailable"
+msgstr "N/A"
+
+msgid "on"
+msgstr "AN"
+
+msgid "off"
+msgstr "AUS"
+
+msgid "exe"
+msgstr "EXE"
+
+msgid "opening"
+msgstr "AUF"
+
+msgid "open"
+msgstr "AUF"
+
+msgid "closing"
+msgstr "ZU"
+
+msgid "closed"
+msgstr "ZU"
